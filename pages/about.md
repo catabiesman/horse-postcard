@@ -12,22 +12,22 @@ credits: true
 
 {% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
 
-## About CollectionBuilder CSV
+## About The Juan Cobo Collection
+#### One horse and some other stuff
+This collection features postcards from the Juan Cobo Collection, at the University of California, Santa Barbara. This small collection is one of 3 featured exhibits in the Juan Cobo Collection's wider work on 20th century postcards. This branch of the Collection is, of course, heavily inspired by an image of a horse from a postcard dispatched in 1954. The Collection ranges from the early 1900s to a handful of missives post WWII. This smaller collection within the Juan Cobo Postcard Collection family was designed with studies of tourism and travel in mind.      
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+## Besides the Horse, what else is in this Collection?
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+- a collection of data about the nature of 31 postcards, with particular emphasis on the location of the recipient's address and the location featured by the postcard's design 
+- a collection of beautiful images of these postcards, notably featuring one singular horse somewhere in Canada, captured by renowned photographer, [Eduardo Castro](https://www.history.ucsb.edu/graduate-student/ecastro/)
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+- this collection also features correspondence to and from notable postcard recipients and authors, Frank, Elsie, and Frank's mother
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+Requests to personally examine or ask for a loan the Frank & Pals Special Collection should be directed to our lead curator, noted scholar with expertise in public history and museum experience, [Victoria Albert](https://history.ucsb.edu/graduate-student/valbert/)
+The collection was designed with tourism in mind, however we understand that scholarship is increasingly fascinated by Frank, and whatever it is he was up to in the early 1900s. We look forward to partnering with scholars on this new and exciting turn in the historiography as the uncover more about the life of Frank. 
+All requests will be considered and evaluated based on the strength of desperation and intent to stalk Frank and persons significant to Frank. Preference will be allocated to any who manage to connect Frank's life to the Horse who inspires our work here at the Juan Cobo Postcard Collectin team of One Horse and Some Other Postcards. 
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+{% include feature/image.html objectid="objects/small/p-2-11_sm" width="75" %} 
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Kindly direct any inquiries about how to write engaging copy about historical artefacts and your colleagues to team member [Catalina Biesman-Simons](https://www.history.ucsb.edu/graduate-student/cbiesman-simons/)  
+Provide a few writing prompts which suggest the tone you wish to strike, and if she is feeling benevolent she may grace you with a reply. 
