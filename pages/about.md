@@ -23,8 +23,8 @@ This collection features postcards from the Juan Cobo Collection, at the Univers
 
 - this collection also features correspondence to and from notable postcard recipients and authors, Frank, Elsie, and Frank's mother
 
-Requests to personally examine or ask for a loan the Frank & Pals Special Collection should be directed to our lead curator, noted scholar with expertise in public history and museum experience, [Victoria Albert](https://history.ucsb.edu/graduate-student/valbert/)
-The collection was designed with tourism in mind, however we understand that scholarship is increasingly fascinated by Frank, and whatever it is he was up to in the early 1900s. We look forward to partnering with scholars on this new and exciting turn in the historiography as the uncover more about the life of Frank. 
+Requests to personally examine or ask for a loan of the Frank & Pals Special Collection should be directed to our lead curator, noted scholar with expertise in public history and museum experience, [Victoria Albert](https://history.ucsb.edu/graduate-student/valbert/)
+The collection was designed with tourism in mind, however we understand that scholarship is increasingly excited by Frank, and whatever it is he was up to in the early 1900s. We look forward to partnering with scholars on this new and exciting turn in the historiography as historians uncover more about the life of Frank. 
 All requests will be considered and evaluated based on the strength of desperation and intent to stalk Frank and persons significant to Frank. Preference will be allocated to any who manage to connect Frank's life to the Horse who inspires our work here at the Juan Cobo Postcard Collectin team of One Horse and Some Other Postcards. 
 
 {% include feature/image.html objectid="objects/small/p-2-11_sm" width="75" %} 
