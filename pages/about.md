@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="objects/small/p-2-16_sm.jpg" %} 
 
 {% include feature/nav-menu.html sections="About The Juan Cobo Collection;Besides the Horse, what else is in this Collection?" %}
 
