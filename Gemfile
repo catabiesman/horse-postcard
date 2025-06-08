@@ -2,12 +2,12 @@
 
 source 'https://rubygems.org'
 
-gem 'github-pages', group: :jekyll_plugins
-
-
-
-
-
+# needed for Jekyll
+gem 'jekyll'
+gem 'webrick'
+gem 'logger'
+gem 'base64'
+gem 'ostruct'
 
 # needed for Rake tasks
 gem 'rake'
